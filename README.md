@@ -19,7 +19,8 @@
 ## 📊 GitHub Stats  
 ![Aditya-tech805's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-tech805&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tech805&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tech805&theme=dark)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-tech805&theme=dark)
 
 ---
 
