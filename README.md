@@ -12,7 +12,6 @@ Currently working on AI-powered applications, autonomous agents, workflow automa
 
 * 🎓 B.Tech Computer Science Student
 * 🤖 Building AI Agents & Agentic Workflows
-* 💼 Founder of **QRSeva** – QR Menu SaaS for Restaurants
 * ⚡ Passionate about Automation using n8n
 * 🌱 Exploring LLMs, RAG, MCP, Multi-Agent Systems & AI Infrastructure
 * 💬 Ask me about AI, Full Stack Development, APIs, Automation and SaaS
